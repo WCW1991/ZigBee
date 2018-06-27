@@ -1,0 +1,1 @@
+http://www.zigbee.org/download/paper-zigbee-3-0-base-device-behavior-specification/
